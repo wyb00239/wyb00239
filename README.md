@@ -1,5 +1,5 @@
-- 👋 Hi, I’m [Wang Yanbo](@wyb00239)
-- I am currently a PhD student at [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/), supervised by [Prof. Ting Kei Pong](https://www.polyu.edu.hk/ama/profile/pong/).
+- 👋 Hi, I’m [Wang Yanbo](https://github.com/wyb00239/wyb00239)
+- I am currently a PhD student at [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/), supervised by [Prof. Ting Kei Pong](https://www.polyu.edu.hk/ama/profile/pong/)
 - Education Experience:
   - BSc in Information and Computing Science, [School of Mathematics](http://www2.scut.edu.cn/math/), [South China University of Technology](https://www.scut.edu.cn/new/) (2018.09-2022.07)
   - MSc in Data Science, [Deptartment of Statistics and Actuarial Science](https://saasweb.hku.hk/), [the University of Hong Kong](https://www.hku.hk/) (2022.09-2024.07)
