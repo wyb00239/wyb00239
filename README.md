@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wyb00239
+- 👋 Hi, I’m [Wang Yanbo](@wyb00239)
 - I am currently a PhD student at [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/), supervised by [Prof. Ting Kei Pong](https://www.polyu.edu.hk/ama/profile/pong/).
 - Education Experience:
   - BSc in Information and Computing Science, [School of Mathematics](http://www2.scut.edu.cn/math/), [South China University of Technology](https://www.scut.edu.cn/new/) (2018.09-2022.07)
